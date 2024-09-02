@@ -1,0 +1,31 @@
+
+table {
+    border: 1px solid rgb(77, 2, 2);
+    margin-left: auto;
+    margin-right: auto;
+}
+ 
+input[type="button"] {
+    width: 100%;
+    padding: 20px 40px;
+    background-color: rgb(17, 6, 79);
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+ 
+input[type="text"] {
+    padding: 20px 240px;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid rgb(244, 80, 80);
+    text-align: left;
+}
+ 
+display {
+    text-align: left;
+}
